@@ -1,0 +1,1 @@
+{"root":["./src/authMiddleware.ts","./src/index.ts","./src/prismaClient.ts","./src/sendEmail.ts","./src/types.ts","./src/routers/router.ts","./src/routers/userRouter.ts"],"version":"5.7.3"}
